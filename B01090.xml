@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[...] Or, Prettie comparisons wittily grounded, which by scornefull maidens may best be expounded. To the tune of, Like to the damaske rose: the second straine to be sung twice over.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01090</idno>
+            <idno type="STC">STC 5605a.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[208]</idno>
+            <idno type="EEBO-CITATION">99884326</idno>
+            <idno type="PROQUEST">ocm99884326</idno>
+            <idno type="VID">183029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183029)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[112])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[...] Or, Prettie comparisons wittily grounded, which by scornefull maidens may best be expounded. To the tune of, Like to the damaske rose: the second straine to be sung twice over.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Fr. Coules, dwelling in the Old-Bayly.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Like to a dove-cote never haunted ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Imperfect: cropped?</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="208" facs="tcp:183029:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>OR,</hi>
+               <l>Prettie Compariſons wittily grounded,</l>
+               <l>Which by ſcornefull Maidens may beſt be expounded.</l>
+            </head>
+            <opener>To the tune of, <hi>Like to the Damaske Roſe:</hi> The ſecond ſtraine to be ſung twice over.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>LIke to a Dove-cote never haunted,</l>
+                  <l>Or a Petition never granted;</l>
+                  <l>Or like broad-cloth without a Taylor,</l>
+                  <l>Or like a Iayle without a Iaylor;</l>
+                  <l>Or like a Lanthorne without a light,</l>
+                  <l>Or Wedding-day without a night:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhée be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The Dove-cote haunted,</l>
+                  <l>yéelds much profit;</l>
+                  <l>The Petition granted,</l>
+                  <l>good comes of it;</l>
+                  <l>The Taylor puts</l>
+                  <l>broad-cloth in ſhape,</l>
+                  <l>The Iaylor lets</l>
+                  <l>no Priſoner 'ſcape;</l>
+                  <l>The Candle light</l>
+                  <l>is the Lanthornes treaſure,</l>
+                  <l>The Wedding-night</l>
+                  <l>crownes all the pleaſure:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden</l>
+                     <l>in mine eyes,</l>
+                     <l>Who loves and marryes</l>
+                     <l>ere ſhee dyes.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a Ring without a finger,</l>
+                  <l>Or like a Bell without a ringer;</l>
+                  <l>Or like a Horſe that's never ridden,</l>
+                  <l>Or like a Feaſt, and no Gueſts bidden;</l>
+                  <l>Or like a Well without a Bucket,</l>
+                  <l>Or like a Roſe and no one plucke it:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The Ring, if worne,</l>
+                  <l>the finger decketh,</l>
+                  <l>The Bell, if rung,</l>
+                  <l>good muſicke maketh;</l>
+                  <l>The Horſe doth eaſe,</l>
+                  <l>if he be ridden,</l>
+                  <l>The Feaſt doth pleaſe,</l>
+                  <l>if Gueſts be bidden;</l>
+                  <l>The Bucket drawes</l>
+                  <l>the water for thée,</l>
+                  <l>The Roſe, when pluckt,</l>
+                  <l>is then moſt worthy:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a Stock not grafted on,</l>
+                  <l>Or like a Lute ne're play'd upon,</l>
+                  <l>Or like a Iacke without a weight,</l>
+                  <l>Or like a Barke without a fraught,</l>
+                  <l>Or like a Locke without a Key<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Or like a Souldier without pay:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The Stocke that's grafted,</l>
+                  <l>yéelds beſt fruit,</l>
+                  <l>Beſt Muſick's in</l>
+                  <l>the finger'd Lute,</l>
+                  <l>The weight doth make</l>
+                  <l>the Iacke goe ready,</l>
+                  <l>The fraught doth make</l>
+                  <l>the Barke goe ſteady,</l>
+                  <l>The Key the Locke</l>
+                  <l>doth open right,</l>
+                  <l>The Souldier paid</l>
+                  <l>is prone to fight:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a Néedle without thread,</l>
+                  <l>Or like a word without a déed,</l>
+                  <l>Or like a warrant never ſeal'd,</l>
+                  <l>Or like a thought that's nere reveal'd,</l>
+                  <l>Or like a line without a hooke,</l>
+                  <l>Or like good meate without a Cooke<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The thread with Néedle</l>
+                  <l>yéelds much pleaſure,</l>
+                  <l>The déed and word</l>
+                  <l>make decent meaſure,</l>
+                  <l>The Seale in force</l>
+                  <l>the Warrant makes;</l>
+                  <l>The thought reveal'd,</l>
+                  <l>all doubt forſakes,</l>
+                  <l>The Hooke with Line</l>
+                  <l>doth catch the Fiſhes,</l>
+                  <l>The Cooke of meat</l>
+                  <l>makes wholſome diſhes<g ref="char:punc">▪</g>
+                  </l>
+                  <lg type="refrain">
+                     <l>So is that Maiden</l>
+                     <l>in mine eyes,</l>
+                     <l>Who loves and marryes</l>
+                     <l>ere ſhée dyes.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="209" facs="tcp:183029:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 7 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>LIke to a Queſtion and no Anſwer,</l>
+                  <l>Or like a call without Anon Sir,</l>
+                  <l>Or like a Ship was never rig'd,</l>
+                  <l>Or like a Mine was never dig'd,</l>
+                  <l>Or like a wound without a plaiſter,</l>
+                  <l>Or like a houſhould and no Maſter:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The Queſtion anſwered,</l>
+                  <l>ſtrife appeaſeth.</l>
+                  <l>Anon, Anon,</l>
+                  <l>the caller pleaſeth,</l>
+                  <l>The rigged Ship</l>
+                  <l>ſayles with the Wind,</l>
+                  <l>Who digges the Mine</l>
+                  <l>ſhall treaſure find;</l>
+                  <l>The wound is by</l>
+                  <l>the plaiſter cured,</l>
+                  <l>The houſe by th' Maſter</l>
+                  <l>is ſecured:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden</l>
+                     <l>in mine eyes,</l>
+                     <l>That loves and marryes</l>
+                     <l>ere ſhe dyes.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a Marrow bone nere broken,</l>
+                  <l>Or commendations and no token,</l>
+                  <l>Or like a Fort and none to win it,</l>
+                  <l>Or like the Moone and no man in it,</l>
+                  <l>Or like a Schoole without a Teacher,</l>
+                  <l>Or like a Pulpit and no Preacher:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The Marrow bone</l>
+                  <l>that's broke eates pleaſant,</l>
+                  <l>The Token makes</l>
+                  <l>a gratefull preſent,</l>
+                  <l>There's triumph in</l>
+                  <l>the Fort that's won,</l>
+                  <l>The man rides glorious</l>
+                  <l>in the Moone,</l>
+                  <l>The Schoole is by</l>
+                  <l>the Teacher ſtil'd,</l>
+                  <l>The Pulpit's by</l>
+                  <l>the Preacher fill'd.</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a Piſtoll and no ſhot,</l>
+                  <l>Or like a Promiſe quite forgot,</l>
+                  <l>Or like a Hawke that's never man'd,</l>
+                  <l>Or like a Hide before 'tis tan'd,</l>
+                  <l>Or like a Coach and nere a horſe,</l>
+                  <l>Or like a Coffin and no Corſe:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The Piſtoll charged,</l>
+                  <l>helpes in danger;</l>
+                  <l>Hée that kéepes promiſe,</l>
+                  <l>is no ranger;</l>
+                  <l>The Hawke that's man'd,</l>
+                  <l>yéelds Princely ſport;</l>
+                  <l>The Hide well tan'd,</l>
+                  <l>there's much uſe for't;</l>
+                  <l>The Horſe doth cauſe</l>
+                  <l>the Coach to carry,</l>
+                  <l>The Coffin's uſ'd</l>
+                  <l>the Corſe to bury:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Like to a houſe by no one kept,</l>
+                  <l>Or like a Corne field never reapt,</l>
+                  <l>Or like a Wind-mill without ſayles,</l>
+                  <l>Or like a Horſe-ſhooe without nayles,</l>
+                  <l>Or like a Cage without a Bird,</l>
+                  <l>Or like a Scabberd and no Sword:</l>
+                  <l>Iuſt ſuch as thoſe</l>
+                  <l>may ſhe be ſaid,</l>
+                  <l>That time doth loſe,</l>
+                  <l>and dyes a Maid.</l>
+                  <l>The houſe well kept,</l>
+                  <l>Gueſts entertaineth;</l>
+                  <l>The Corne field reapt,</l>
+                  <l>mans life ſuſtaineth;</l>
+                  <l>The Wind-mill ſayles,</l>
+                  <l>the Graine well grindeth<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Horſe-ſhooes with nayles,</l>
+                  <l>ſure footing findeth;</l>
+                  <l>The Bird in Cage,</l>
+                  <l>ſings merrily;</l>
+                  <l>The Sword in ſheath,</l>
+                  <l>ſhewes decently:</l>
+                  <lg type="refrain">
+                     <l>So is that Maiden</l>
+                     <l>in mine eyes,</l>
+                     <l>Who loves and marryes,</l>
+                     <l>ere ſhée dyes.</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Fr. Coules,</hi> dwel<g ref="char:EOLhyphen"/>ling in the Old-Bayly.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
